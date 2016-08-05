@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-1/10-1.iml" filepath="$PROJECT_DIR$/10-1/10-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-10/10-10.iml" filepath="$PROJECT_DIR$/10-10/10-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-2/10-2.iml" filepath="$PROJECT_DIR$/10-2/10-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-3/11-3.iml" filepath="$PROJECT_DIR$/11-3/11-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-5/11-5.iml" filepath="$PROJECT_DIR$/11-5/11-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-4/12-4.iml" filepath="$PROJECT_DIR$/12-4/12-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-5/12-5.iml" filepath="$PROJECT_DIR$/12-5/12-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-1/13-1.iml" filepath="$PROJECT_DIR$/13-1/13-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-2/13-2.iml" filepath="$PROJECT_DIR$/13-2/13-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-3/13-3.iml" filepath="$PROJECT_DIR$/13-3/13-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-7/13-7.iml" filepath="$PROJECT_DIR$/13-7/13-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-1/14-1.iml" filepath="$PROJECT_DIR$/14-1/14-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-11/14-11.iml" filepath="$PROJECT_DIR$/14-11/14-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-2/14-2.iml" filepath="$PROJECT_DIR$/14-2/14-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-5/14-5.iml" filepath="$PROJECT_DIR$/14-5/14-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-1/17-1.iml" filepath="$PROJECT_DIR$/17-1/17-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-5/18-5.iml" filepath="$PROJECT_DIR$/18-5/18-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-1/5-1.iml" filepath="$PROJECT_DIR$/5-1/5-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-7/5-7.iml" filepath="$PROJECT_DIR$/5-7/5-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-8/5-8.iml" filepath="$PROJECT_DIR$/5-8/5-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-1/6-1.iml" filepath="$PROJECT_DIR$/6-1/6-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-12/6-12.iml" filepath="$PROJECT_DIR$/6-12/6-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-2/6-2.iml" filepath="$PROJECT_DIR$/6-2/6-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-7/6-7.iml" filepath="$PROJECT_DIR$/6-7/6-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-1/7-1.iml" filepath="$PROJECT_DIR$/7-1/7-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-2/7-2.iml" filepath="$PROJECT_DIR$/7-2/7-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-6/7-6.iml" filepath="$PROJECT_DIR$/7-6/7-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-7/7-7.iml" filepath="$PROJECT_DIR$/7-7/7-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-1/8-1.iml" filepath="$PROJECT_DIR$/8-1/8-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-2/8-2.iml" filepath="$PROJECT_DIR$/8-2/8-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-1/9-1.iml" filepath="$PROJECT_DIR$/9-1/9-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-2/9-2.iml" filepath="$PROJECT_DIR$/9-2/9-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-tree/binary-tree.iml" filepath="$PROJECT_DIR$/binary-tree/binary-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elements.iml" filepath="$PROJECT_DIR$/elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/substring-practice/substring-practice.iml" filepath="$PROJECT_DIR$/substring-practice/substring-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-utils/test-utils.iml" filepath="$PROJECT_DIR$/test-utils/test-utils.iml" />
+    </modules>
+  </component>
+</project>
